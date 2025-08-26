@@ -36,7 +36,6 @@ function App() {
     setActiveSection(sectionId);
     setIsMenuOpen(false);
   };
-import myPhoto from "../assets/myphoto.jpg";
 
   const navItems = [
     { id: 'home', label: 'Home', icon: User },
