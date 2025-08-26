@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "type": "module",
-  "homepage": "https://Gokularam12.github.io/gokul-portfolio",
+  "homepage": "https://Gokularam-12.github.io/gokul-portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
