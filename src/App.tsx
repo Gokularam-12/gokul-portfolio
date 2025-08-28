@@ -212,7 +212,7 @@ function App() {
               </span>
             </h1>
             <p className="text-xl md:text-2xl mb-8 text-gray-300 animate-fade-in-up animation-delay-200">
-              Full Stack Developer & Computer Science Student
+              Software Developer & Computer Science Student
             </p>
             <p className="text-lg mb-12 text-gray-400 max-w-2xl mx-auto animate-fade-in-up animation-delay-400">
               Passionate about building innovative web applications and exploring the latest technologies. 
@@ -281,7 +281,7 @@ function App() {
                 <p className="text-gray-700">
                   <strong>SRM Madurai College for Engineering and Technology</strong><br />
                   B.E. in Computer Science Engineering (2022-2027)<br />
-                  Current CGPA: 7.14
+                  Current CGPA: 7.51 
                 </p>
               </div>
 
