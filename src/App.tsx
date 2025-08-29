@@ -194,13 +194,13 @@ function App() {
       {/* Hero Section */}
       <section id="home" className="min-h-screen flex items-center justify-center relative overflow-hidden">
         <div className="absolute inset-0 bg-gradient-to-br from-slate-900 via-blue-900 to-indigo-900"></div>
-        <div className="absolute inset-0 bg-[url('https://images.pexels.com/photos/1714208/pexels-photo-1714208.jpeg?auto=compress&cs=tinysrgb&w=1920')] bg-cover bg-center opacity-10"></div>
+        <div className="absolute inset-0 bg-[url('https://ibb.co/BHvDpMgn')] bg-cover bg-center opacity-10"></div>
         
         <div className="relative z-10 text-center text-white max-w-4xl mx-auto px-4">
           <div className="mb-8">
             <div className="w-32 h-32 mx-auto mb-8 rounded-full overflow-hidden border-4 border-white/20 shadow-2xl">
               <img 
-                src="https://images.pexels.com/photos/3184306/pexels-photo-3184306.jpeg?auto=compress&cs=tinysrgb&w=300" 
+                src="https://ibb.co/BHvDpMgn" 
                 alt="Gokularam M" 
                 className="w-full h-full object-cover"
               />
